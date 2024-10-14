@@ -1,5 +1,5 @@
 # hi o/
-im halo, i work on games in lua, though most are closed source
+im halo, i work on games in lua, though most are closed source.
 this profile is mainly used for snippets of code ive written for various purposes
 
 right now im working on monday.com extensions for work
