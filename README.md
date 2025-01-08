@@ -11,3 +11,4 @@ most of my work is under the [HaloDev Games](https://github.com/HaloDevGames) pr
 [![haxe](https://img.shields.io/badge/HX-000000?logo=Haxe&style=flat-square)](https://github.com/ActuallyHalowo)
 
 [![top languages](https://github-language-stats-livid.vercel.app/api/top-langs/?username=ActuallyHalowo&count_private=true&show_icons=true&layout=donut&exclude_repo=stats,testing)](https://github.com/anuraghazra/github-readme-stats)
+[![top languages](https://github-language-stats-livid.vercel.app/api/top-langs/?username=HaloDevGames&count_private=true&show_icons=true&layout=donut&exclude_repo=stats,testing)](https://github.com/anuraghazra/github-readme-stats)
