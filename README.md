@@ -14,6 +14,6 @@ i tend to keep most of my code private, primarily because its not super pretty. 
 [![languages](https://skillicons.dev/icons?i=lua,haxe,ts,svelte,robloxstudio,vscode)](https://skillicons.dev)
 
 # socials
-[discord](discord://-/users/374273730223931392), [bluesky](https://bsky.app/profile/halodev.games), [mastodon](https://mas.to/@Halo)
+[discord](https://discord.gg/FHFycad), [bluesky](https://bsky.app/profile/halodev.games), [mastodon](https://mas.to/@Halo)
 
 <a href="https://ko-fi.com/ActuallyHalowo"><img style="border:0px;height:48px;" src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_blue.png" alt="Buy Me a Coffee at ko-fi.com"/></a>
