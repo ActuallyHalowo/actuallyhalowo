@@ -5,7 +5,6 @@ as of now, i dont exactly have a specific skillset, im kind of just figuring out
 i tend to keep most of my code private, primarily because its not super pretty. **thank me later, seriously**
 
 # current projects
-- web based re-implementation of my college's app - [svelte](https://svelte.dev)
 - discord bot for automating several jellyfin tasks - [luvit](https://luvit.io), [discordia](https://github.com/SinisterRectus/Discordia)
 
 # stuff i use
